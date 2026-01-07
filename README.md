@@ -4,16 +4,21 @@ first arduino project
 ## about
 This is just a basic turning on the led with your powersupply, utilizing with of course your breadboard and arduino.
 
-![alt text](img/1000115413.jpg)
+![alt text](img/result.jpg)
 
 note: The DC Jack was a bit rare to find (that already connects with the wire and battery input). Luckily, my local electronic shop did a fix, with making it connect (onsight), and the elderly gentlement used a screwdriver (so, without using soldering iron).
 
 ## materials
 ![Power Supply Module](img\power_supply_module.jpg)
+
 ![Breadboard](img\breadboard.jpg)
+
 ![LED](img\red_LED.jpg)
+
 ![Batter Adapter](img\battery_adapter.jpg)
+
 ![Resistor](img\resistor.jpg)
+
 ![Solderless Jumper Wire](img\solderless_jumper_wire.jpg)
 
 sources:
