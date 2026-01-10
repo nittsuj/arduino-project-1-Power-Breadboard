@@ -13,6 +13,12 @@ note: The DC Jack was a bit rare to find (that already connects with the wire an
 
 
 ## materials
+- Power Supply Module
+
+  transforms raw electrical input into a stable output
+  
+<img src="img/power_supply_module.jpg" alt="Power_Supply" width="200">
+
 - Breadboard
 
   provides working space, where temporary circuits can be built.
