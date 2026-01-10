@@ -1,4 +1,4 @@
-# arduino-project-1-Power-Breadboard
+# electronic-project-1-Power-Breadboard
 first arduino project 
 
 ## about
@@ -8,8 +8,14 @@ This is just a basic turning on the led with your powersupply, utilizing with of
 
 note: The DC Jack was a bit rare to find (that already connects with the wire and battery input). Luckily, my local electronic shop did a fix, with making it connect (onsight), and the elderly gentlement used a screwdriver (so, without using soldering iron).
 
+## circuit diagram
+<img src="img/circuit.png" alt="circuit" width="200"/>
+
+
 ## materials
 - Breadboard
+
+  provides working space, where temporary circuits can be built.
 
 <img src="img/breadboard.jpg" alt="Breadboard" width="200">
 
@@ -23,9 +29,13 @@ note: The DC Jack was a bit rare to find (that already connects with the wire an
 
 - Resistor
 
+  controls current flow & drops voltage
+
 <img src="img/resistor.jpg" alt="Resistor" width="200">
 
 - Solderless Jumper Wire
+
+  connects electrical components to breadboard
 
 <img src="img/solderless_jumper_wire.jpg" alt="Solderless Jumper Wire" width="200">
 
